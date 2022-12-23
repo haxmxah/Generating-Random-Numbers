@@ -30,6 +30,6 @@ Here we generate 40000 possible values of the elctron position and we computate 
 
 The probability density is given by:
 
-$$g(x) = \sqrt{e^{-x^2/(2\sigma^2)}{\sqrt{2\pi \sigma^2}}$$
+$$g(x) = \sqrt{e^{-x^2/(2\sigma^2)}}{\sqrt{2\pi \sigma^2}}$$
 
 We study the probability density and we estimate the mean, variance and standard deviation of the variable $x$. 
